@@ -2,9 +2,7 @@
 from turtle import color
 import numpy as np
 import cv2
-import argparse
 from matplotlib import pyplot as plt
-import os
 
 match_num = 2
 
